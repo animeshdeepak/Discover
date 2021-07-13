@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Discover</string>
+    <string name="account_menu_item">account</string>
+    <string name="bookmark_menu_item">bookmark</string>
+    <string name="notification_menu_item">account</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="see_all">See All</string>
+</resources>
